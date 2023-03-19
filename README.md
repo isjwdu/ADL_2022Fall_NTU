@@ -1,6 +1,7 @@
 # ADL_2022Fall_NTU
 
 Applied Deep Learning taught by Prof. [Yun-Nung(Vivian) Chen](https://www.csie.ntu.edu.tw/~yvchen/about.html)
+
 [Course Record](https://www.youtube.com/playlist?list=PLOAQYZPRn2V5yumEV1Wa4JvRiDluf83vn)
 
 | Num |              Public              |             Private              |  Score  |
